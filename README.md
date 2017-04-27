@@ -9,9 +9,12 @@ git clone https://github.com/SinaXhpm/SinChi && cd SinChi && chmod +x install.sh
 # Sudo
 Add you userid in to Sudo.lua 
 
-<b>By:<a href='https://telegram.me/sinaxhpm'>SinaXhpm</a><br/><br/>
+جرای دائم ربات ها:
+screen ./on.sh
+
+<b>By:<a href='</a><br/><br/>
 Tnx To:<br/>
-Amir(Helpgram team)
+Amir()
 <br/>
 Monarch
 <br/>
